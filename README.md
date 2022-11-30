@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Book-Search_Engine
 
 # Description
@@ -6,3 +7,7 @@
 ### Github: https://github.com/dalebungay/Book-Search_Engine
 
 ### Heroku: https://book-search-engine.herokuapp.com/
+=======
+# Book Search Engine Starter Code
+
+>>>>>>> 26e91bc (add git ignore to server)
